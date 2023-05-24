@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chain-app-dev-website-in-react/static/css/main.8b5c512a.css",
-    "main.js": "/chain-app-dev-website-in-react/static/js/main.91fbc397.js",
+    "main.css": "/chain-app-dev-website-in-react/static/css/main.97b0ad7a.css",
+    "main.js": "/chain-app-dev-website-in-react/static/js/main.c9c9b362.js",
     "static/media/footer-bg.png": "/chain-app-dev-website-in-react/static/media/footer-bg.7d736a591de6c328f321.png",
     "static/media/slider-left-dec.png": "/chain-app-dev-website-in-react/static/media/slider-left-dec.da0a0b96f1813784cb0b.png",
     "static/media/about-right-dec.png": "/chain-app-dev-website-in-react/static/media/about-right-dec.793eb0c7327a2ab3f9d8.png",
@@ -9,11 +9,11 @@
     "static/media/slider-dec.png": "/chain-app-dev-website-in-react/static/media/slider-dec.75585872b517dd5efcf5.png",
     "static/media/about-bg.jpg": "/chain-app-dev-website-in-react/static/media/about-bg.096aebb05c644a4e997e.jpg",
     "index.html": "/chain-app-dev-website-in-react/index.html",
-    "main.8b5c512a.css.map": "/chain-app-dev-website-in-react/static/css/main.8b5c512a.css.map",
-    "main.91fbc397.js.map": "/chain-app-dev-website-in-react/static/js/main.91fbc397.js.map"
+    "main.97b0ad7a.css.map": "/chain-app-dev-website-in-react/static/css/main.97b0ad7a.css.map",
+    "main.c9c9b362.js.map": "/chain-app-dev-website-in-react/static/js/main.c9c9b362.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b5c512a.css",
-    "static/js/main.91fbc397.js"
+    "static/css/main.97b0ad7a.css",
+    "static/js/main.c9c9b362.js"
   ]
 }
